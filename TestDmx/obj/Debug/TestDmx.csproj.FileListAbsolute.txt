@@ -1,0 +1,13 @@
+C:\Users\Jeremiah Zyrel\source\repos\TestDmx\TestDmx\bin\Debug\TestDmx.exe.config
+C:\Users\Jeremiah Zyrel\source\repos\TestDmx\TestDmx\bin\Debug\TestDmx.exe
+C:\Users\Jeremiah Zyrel\source\repos\TestDmx\TestDmx\bin\Debug\TestDmx.pdb
+C:\Users\Jeremiah Zyrel\source\repos\TestDmx\TestDmx\bin\Debug\ArtNet.dll
+C:\Users\Jeremiah Zyrel\source\repos\TestDmx\TestDmx\bin\Debug\ArtNet.pdb
+C:\Users\Jeremiah Zyrel\source\repos\TestDmx\TestDmx\obj\Debug\TestDmx.Form1.resources
+C:\Users\Jeremiah Zyrel\source\repos\TestDmx\TestDmx\obj\Debug\TestDmx.Properties.Resources.resources
+C:\Users\Jeremiah Zyrel\source\repos\TestDmx\TestDmx\obj\Debug\TestDmx.csproj.GenerateResource.cache
+C:\Users\Jeremiah Zyrel\source\repos\TestDmx\TestDmx\obj\Debug\TestDmx.csproj.CoreCompileInputs.cache
+C:\Users\Jeremiah Zyrel\source\repos\TestDmx\TestDmx\obj\Debug\TestDmx.csproj.CopyComplete
+C:\Users\Jeremiah Zyrel\source\repos\TestDmx\TestDmx\obj\Debug\TestDmx.exe
+C:\Users\Jeremiah Zyrel\source\repos\TestDmx\TestDmx\obj\Debug\TestDmx.pdb
+C:\Users\Jeremiah Zyrel\source\repos\TestDmx\TestDmx\obj\Debug\TestDmx.csprojAssemblyReference.cache
